@@ -1,4 +1,4 @@
-public class TangleAsset implements Thing{
+public class TangibleAsset implements Thing{
 	private String name;
 	private int price;
 	private String color;	
